@@ -1,0 +1,5 @@
+echo "Please enter your name"
+read name
+echo "Please enter your pin"
+read -s pin
+echo "$name you can use zelley"
